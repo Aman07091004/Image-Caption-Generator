@@ -2,5 +2,5 @@ numpy==1.21.6
 openai==0.27.8
 Pillow==9.5.0
 streamlit==1.23.0
-tensorflow==2.12.0
+tensorflow==2.10.0
 tensorflow_intel==2.12.0
